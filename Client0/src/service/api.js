@@ -6,7 +6,7 @@ import { getAccessToken,getType } from '../utils/common-utils';
 
 
 
-const API_URL='https://blog-app-jmvu.onrender.com';
+const API_URL='https://blog-app-9lgy.onrender.com';
 const axiosInstance = axios.create({
    baseURL:API_URL,
    timeout:10000,
